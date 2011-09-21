@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hbs/!svn/ver/118211/vendors/entermedia/trunk/localhost/hbs/theme/layouts
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hbs/!svn/ver/117775/vendors/entermedia/trunk/localhost/hbs/theme/layouts/layout.html
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hbs/!svn/ver/117760/vendors/entermedia/trunk/localhost/hbs/theme/layouts/footer.html
+END
+error500.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hbs/!svn/ver/118211/vendors/entermedia/trunk/localhost/hbs/theme/layouts/error500.html
+END
+mediaviewer.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hbs/!svn/ver/117892/vendors/entermedia/trunk/localhost/hbs/theme/layouts/mediaviewer.html
+END
+error404.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hbs/!svn/ver/118201/vendors/entermedia/trunk/localhost/hbs/theme/layouts/error404.html
+END
+application.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hbs/!svn/ver/117823/vendors/entermedia/trunk/localhost/hbs/theme/layouts/application.html
+END
+searchlayout.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hbs/!svn/ver/117901/vendors/entermedia/trunk/localhost/hbs/theme/layouts/searchlayout.html
+END
+nav.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hbs/!svn/ver/117824/vendors/entermedia/trunk/localhost/hbs/theme/layouts/nav.html
+END
+error500.xconf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hbs/!svn/ver/118201/vendors/entermedia/trunk/localhost/hbs/theme/layouts/error500.xconf
+END
+error404.xconf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hbs/!svn/ver/118201/vendors/entermedia/trunk/localhost/hbs/theme/layouts/error404.xconf
+END
